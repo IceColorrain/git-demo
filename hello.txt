@@ -7,7 +7,7 @@ hello huang! hello git!
 hello huang! hello git!
 hello huang! hello git!
 hello huang! hello git!
-hello huang! hello git!
+hello huang! hello git! hot-fix test
 hello huang! hello git!
 hello huang! hello git!
 hello huang! hello git!
